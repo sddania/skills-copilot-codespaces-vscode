@@ -1,5 +1,5 @@
-// Create a web server 
-// that listens for HTTP requests on port 3000. When it receives a request, it should respond with a JSON object containing all the comments in the database.
+
+// Create a web server
 
 const express = require('express');
 const app = express();
